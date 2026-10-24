@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:04,461
+Hay incendios en Junín. Miramos quién vive a cinco kilómetros de ellos.
+
+2
+00:00:04,861 --> 00:00:10,192
+Si contamos cada alerta del satélite, hay setecientas cuarenta y seis mil personas cerca.
+
+3
+00:00:10,592 --> 00:00:19,069
+Pero muchas alertas no son incendios. Si contamos solo los probables, quedan doscientas treinta y dos mil setecientas cuarenta y ocho personas.
+
+4
+00:00:19,469 --> 00:00:26,249
+El incendio más grande está en Río Tambo. Pero cerca de él viven solo trescientas noventa y nueve personas.
+
+5
+00:00:26,649 --> 00:00:38,966
+Algunos centros de salud cerca del fuego no tienen cobertura 4G garantizada, es decir, internet móvil para una teleconsulta. Seis de los siete centros críticos están en el valle del Ene.

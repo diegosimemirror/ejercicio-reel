@@ -1,0 +1,31 @@
+[
+  {
+    "frase": "Hay incendios en Junín. Miramos quién vive a cinco kilómetros de ellos.",
+    "cifra": "5 km",
+    "etiqueta": "Cerca del fuego",
+    "imagen": "mapa_junin.png"
+  },
+  {
+    "frase": "Si contamos cada alerta del satélite, hay setecientas cuarenta y seis mil personas cerca.",
+    "cifra": "746,046",
+    "etiqueta": "Todas las alertas",
+    "proporcion": 1.0
+  },
+  {
+    "frase": "Pero muchas alertas no son incendios. Si contamos solo los probables, quedan doscientas treinta y dos mil setecientas cuarenta y ocho personas.",
+    "cifra": "232,748",
+    "etiqueta": "Solo los incendios probables",
+    "proporcion": 0.31
+  },
+  {
+    "frase": "El incendio más grande está en Río Tambo. Pero cerca de él viven solo trescientas noventa y nueve personas.",
+    "cifra": "399",
+    "etiqueta": "Cerca del incendio más grande"
+  },
+  {
+    "frase": "Algunos centros de salud cerca del fuego no tienen cobertura 4G garantizada, es decir, internet móvil para una teleconsulta. Seis de los siete centros críticos están en el valle del Ene.",
+    "cifra": "6",
+    "etiqueta": "Red de salud en riesgo",
+    "imagen": "red_salud_junin.png"
+  }
+]
